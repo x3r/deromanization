@@ -1,0 +1,5 @@
+refined	E	E
+sorsher	B	B
+tel	B	B
+manufacturing	E	E
+process	E	E
