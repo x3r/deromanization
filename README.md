@@ -14,13 +14,13 @@ An approach for deromanizing code-mixed texts using language identification, bac
 
 python sequence_prediction.py [-h] -d DTLM -s SEQ -n NMT -w LM -l LID -t TEST [-o OUTPUT]
 
-optional arguments:
+**optional arguments:**
 
   -h, --help            show this help message and exit
   
   -o OUTPUT, --output OUTPUT  output file name
 
-required named arguments:
+**required named arguments:**
 
   -d DTLM, --dtlm DTLM  dtlm predictions
 
