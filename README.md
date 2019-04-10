@@ -11,7 +11,8 @@ An approach for deromanizing code-mixed texts using language identification, bac
 **Output:** Deromanized sentences
 
 **Usage:**
-usage: sequence_prediction.py [-h] -d DTLM -s SEQ -n NMT -w LM -l LID -t TEST [-o OUTPUT]
+
+python sequence_prediction.py [-h] -d DTLM -s SEQ -n NMT -w LM -l LID -t TEST [-o OUTPUT]
 
 optional arguments:
 
