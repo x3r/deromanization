@@ -1,6 +1,8 @@
 # Deromanization of code-mixed texts
 An approach for deromanizing code-mixed texts using language identification, back-transliteration and sequence prediction.
 
+This repository also contains manually annotated data for transliteration (**data/bengali-annotated-transliteration.txt**).
+
 ## Word Sequence Prediction
 **Input:** (Please follow the file formats in **data/sample/**)
 * Language labels
