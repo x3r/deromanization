@@ -6,7 +6,7 @@ This repository also contains manually annotated data for transliteration (**dat
 ## Word Sequence Prediction
 **Input:** (Please follow the file formats in **data/sample/**)
 * Language labels
-* N-best transliteration list with scores
+* N-best transliteration lists with scores
 * Word-level language model
 * Test sentences
 
@@ -35,3 +35,5 @@ python sequence_prediction.py [-h] -d DTLM -s SEQ -n NMT -w LM -l LID -t TEST [-
   -l LID, --lid LID     language labels
 
   -t TEST, --test TEST  test file name
+
+For any issues, please contact: riyadh[AT]ualberta[DOT]ca.
