@@ -18,13 +18,13 @@ This repository also contains manually annotated data for transliteration (**dat
 python sequence_prediction.py [-h] -d DTLM -s SEQ -n NMT -w LM -l LID -t TEST [-o OUTPUT]
 ```
 
-**optional arguments:**
+*Optional arguments:*
 
   -h, --help            show this help message and exit
   
   -o OUTPUT, --output OUTPUT  output file name
 
-**required named arguments:**
+*Required named arguments:*
 
   -d DTLM, --dtlm DTLM  dtlm predictions
 
