@@ -14,11 +14,11 @@ This repository also contains manually annotated data for transliteration (**dat
 
 **Usage:**
 
-'''
+```
 
 python sequence_prediction.py [-h] -d DTLM -s SEQ -n NMT -w LM -l LID -t TEST [-o OUTPUT]
 
-'''
+```
 
 **optional arguments:**
 
@@ -40,4 +40,4 @@ python sequence_prediction.py [-h] -d DTLM -s SEQ -n NMT -w LM -l LID -t TEST [-
 
   -t TEST, --test TEST  test file name
 
-For any issues, please contact: riyadh[AT]ualberta[DOT]ca.
+*For any issues, please contact: riyadh[AT]ualberta[DOT]ca.*
